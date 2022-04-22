@@ -1,0 +1,28 @@
+.styleTop
+{
+    left:2px;
+    position: relative;
+    margin: 0 auto;
+    padding: 0px;
+    color:#fff;
+    width: 100%;
+    font-weight:bold;
+}
+.divimg {
+    top:6px;
+    Height:11%;
+    Width:9%;
+    position:relative;
+    margin-left:4%;
+}
+.styClock {
+    color:whitesmoke;
+    font-weight:bold;
+    font-size:large;
+}
+.styspan {
+    color: #fff;
+    font-weight: bold;
+    font-variant: small-caps;
+    text-transform: none;
+}
